@@ -35,8 +35,8 @@ I am currently diving deep into the JVM ecosystem while leveraging **Python** fo
 ---
 
 ## 🌱 Current Projects
-* **[Bail Mining]**: A Small Hypixel Skyblock Minecraft mod in Kotlin. With a lot of QOL Features
-* **[PacketCommandLogger]**: A Paper Plugin to log and lock commands in realtime.
+* **Bail Mining**: A Small Hypixel Skyblock Minecraft mod in Kotlin. With a lot of QOL Features
+* **PacketCommandLogger**: A Paper Plugin to log and lock commands in realtime.
 
 ---
 
