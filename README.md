@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Reyxs! 👋
 
 ### 🚀 Aspiring Developer | Java, Kotlin & Python Enthusiast
 
